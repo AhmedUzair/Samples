@@ -2,24 +2,24 @@
 
 ## Overview
 
-This .NET project is a simple implementation of a shopping cart system. It allows users to browse products, add them to the cart, and proceed to checkout. It also includes the basic infrastructure of the following features:
+This .NET core 6 project is a basic implementation of a shopping cart system. It allows users to browse products, add them to the cart, and proceed to checkout. It also includes the basic infrastructure of the following features:
 
 ## Authentication
 
 1. The solution is integrated with AD Authentication
-2. It is also equipped to Authenticate Requests based on Bearer tokens, we can also partiaally authenticate a request
+2. It is also equipped to Authenticate Requests based on Bearer tokens, we can also partially authenticate a request
 
 ## Logging
 
-1. The system is integrated with Application Insights to log events accross different flows
+1. The system is integrated with Application Insights to log events across different flows
 
 ## Middleware/Fault Tolerance
 
-1. The system conists of Middleware that is capable of handling any sort of faults that may occur during the execution of requests. 
+1. The system consists of Middleware that can handle any sort of faults that may occur during the execution of requests. 
 
 ## Database
 
-1. Any sort of data base can be incorporated with the Implemneted Repository Patter
+1. Any sort of data base can be incorporated with the integrated Repository Pattern
 
 ## Project Structure
 
@@ -41,5 +41,5 @@ This .NET project is a simple implementation of a shopping cart system. It allow
 
 1. List, add or update Products.
 2. Add products to shopping cart.
-3. List Items in Catd
+3. List Items in Cart
 3. Proceed to checkout.

@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Infrastructure\\ShoppingCart.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\ShoppingCart.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\ShoppingCart.Core.csproj",
+        "projectName": "ShoppingCart.Core",
+        "projectPath": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\ShoppingCart.Core.csproj",
+        "packagesPath": "C:\\Users\\MuhammadAliZafar\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MuhammadAliZafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/matasdk/_packaging/CloudIntegrationShared/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Infrastructure\\ShoppingCart.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Infrastructure\\ShoppingCart.Infrastructure.csproj",
+        "projectName": "ShoppingCart.Infrastructure",
+        "projectPath": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Infrastructure\\ShoppingCart.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MuhammadAliZafar\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MuhammadAliZafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/matasdk/_packaging/CloudIntegrationShared/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\ShoppingCart.Core.csproj": {
+                "projectPath": "D:\\Repos\\R&D\\ShopingCart\\ShopingCart.Core\\ShoppingCart.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

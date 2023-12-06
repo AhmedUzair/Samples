@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {}
+    "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
+    "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
+        "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
         "projectName": "ShoppingCart.Core",
-        "projectPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
+        "projectPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
         "packagesPath": "C:\\Users\\AhmedUzair\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\obj\\",
+        "outputPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,14 +101,14 @@
         }
       }
     },
-    "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {
+    "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
+        "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
         "projectName": "ShoppingCart.Persistance",
-        "projectPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
+        "projectPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
         "packagesPath": "C:\\Users\\AhmedUzair\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\obj\\",
+        "outputPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -133,8 +133,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
-                "projectPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj"
+              "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
+                "projectPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj"
               }
             }
           }

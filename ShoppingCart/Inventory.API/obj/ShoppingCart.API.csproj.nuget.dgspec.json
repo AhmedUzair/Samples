@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\Inventory.API.csproj": {}
+    "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\Inventory.API.csproj": {
+    "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\Inventory.API.csproj",
-        "projectName": "Inventory.API",
-        "projectPath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\Inventory.API.csproj",
+        "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj",
+        "projectName": "ShoppingCart.API",
+        "projectPath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj",
         "packagesPath": "C:\\Users\\AhmedUzair\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\obj\\",
         "projectStyle": "PackageReference",

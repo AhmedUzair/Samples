@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUibPvzVh5z3WCOkZullh6fG4ZHuI+b8YrfGaNJZQLt4+nt11hfc1pm0M+IAW1qCJA1b0TTByLS3hdlW1We5hA==",
+  "dgSpecHash": "qh5SbcjH6m30TCs/gihKj6y1T9jdJosP+1Y44vUHkHb+xEZ0+uYy2TMUnxFuuZXKrAGywysT4grEnHOKAgfv6Q==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Sample\\ShoppingCart\\Inventory.API\\Inventory.API.csproj",
+  "projectFilePath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

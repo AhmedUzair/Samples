@@ -3599,11 +3599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Sample\\ShoppingCart\\Inventory.API\\Inventory.API.csproj",
-      "projectName": "Inventory.API",
-      "projectPath": "D:\\Github\\Sample\\ShoppingCart\\Inventory.API\\Inventory.API.csproj",
+      "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj",
+      "projectName": "ShoppingCart.API",
+      "projectPath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\ShoppingCart.API.csproj",
       "packagesPath": "C:\\Users\\AhmedUzair\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Sample\\ShoppingCart\\Inventory.API\\obj\\",
+      "outputPath": "D:\\Github\\Samples\\ShoppingCart\\Inventory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3628,8 +3628,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {
-              "projectPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj"
+            "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj": {
+              "projectPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj"
             }
           }
         }

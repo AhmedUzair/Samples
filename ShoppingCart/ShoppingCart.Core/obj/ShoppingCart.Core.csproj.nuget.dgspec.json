@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {}
+    "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
+    "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
+        "projectUniqueName": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
         "projectName": "ShoppingCart.Core",
-        "projectPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
+        "projectPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
         "packagesPath": "C:\\Users\\AhmedUzair\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\obj\\",
+        "outputPath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

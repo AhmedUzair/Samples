@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "49H6VGkbLVHhiyHapTBwbKBbzyEncMekeAasz5Q6J1Zl4w9pKQ/T0Ug6WGiDlXx8Tb7ElaEwY6FPioRr996KnQ==",
+  "dgSpecHash": "YvfxMbHBIgozZUP33RjrdhAp1cJukhLL1y0KIZ7CFvXyw7uMzjmly3T5qUz7hsUloOQCPBHv0s/nDoubBjeGCQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
+  "projectFilePath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Infrastructure\\ShoppingCart.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

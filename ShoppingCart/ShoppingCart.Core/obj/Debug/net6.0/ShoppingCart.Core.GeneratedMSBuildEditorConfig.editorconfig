@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShoppingCart.Core
-build_property.ProjectDir = D:\Github\Sample\ShoppingCart\ShoppingCart.Core\
+build_property.ProjectDir = D:\Github\Samples\ShoppingCart\ShoppingCart.Core\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eL0AFqh6fhnt1X9qo9gjzaYShuaqvGdQ62II+cPnlMt+EJiVTpH0gNiV3uIvuCTZNgTyFgk+pl40cBBWa5BzGw==",
+  "dgSpecHash": "bnPTu73CiYfZNHB2Kut8wl87h/8CH76dtHiJWWS+B+ah8ynQSqrB6Nf9vnoOTOQ/xnAh9yYDgKEsny5oA5ceQQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Sample\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
+  "projectFilePath": "D:\\Github\\Samples\\ShoppingCart\\ShoppingCart.Core\\ShoppingCart.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\AhmedUzair\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
